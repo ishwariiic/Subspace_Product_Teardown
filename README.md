@@ -15,3 +15,6 @@ I used the Subspace website/app as an active user, explored onboarding flows, re
 ## Deliverables
 - Final teardown PDF
 - Supporting screenshots
+## Quick Feature prototype
+Built a Quick Lovable MVP - Subscription Savings Calculator -a tiny tool where user enters: current subscriptions monthly spending how many people sharing Then: “You could save ₹438/month with shared plans” Bonus: show: yearly savings “most overpaid subscription
+https://subs-save-dash.lovable.app
